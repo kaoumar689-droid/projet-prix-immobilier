@@ -1,7 +1,7 @@
 # Prédiction des prix de l'immobilier
 
 Projet Machine Learning, Sujet 5 (Dr Yoro DIA).
-Auteur : Seydina Omar
+Auteur : Oumar KA
 
 Estimation du prix de vente de maisons à partir de leurs caractéristiques, avec le jeu de données Kaggle
 « House Prices : Advanced Regression Techniques » (maisons d'Ames, Iowa).
